@@ -1,6 +1,8 @@
 # idea-of-new-esports
 idea of new esports
 
+[merged into https://github.com/DeathStarGame/DeathStarGame]
+
 ## contents
 
 
