@@ -1,12 +1,12 @@
-# idea-of-new-esports
+idea-of-new-esports
 idea of new esports
 
 [merged into https://github.com/DeathStarGame/DeathStarGame]
 
-## contents
+contents
 
 
-## play
+play
 
 Idea is bigger than project, but demo is part of a project
 
